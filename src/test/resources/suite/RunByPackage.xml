@@ -1,0 +1,11 @@
+<!--Check this out.-->
+<!--http://testng.org/doc/documentation-main.html-->
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Run All">
+    <test name="Run by pacakge">
+        <packages>
+            <package name="testng.runnable" />
+        </packages>
+    </test>
+</suite>
