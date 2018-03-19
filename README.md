@@ -1,2 +1,2 @@
 # About
-The project contains commonly examples of test frameworks like JUnit and TestNG.
+The project contains commonly examples of TestNG framework.
